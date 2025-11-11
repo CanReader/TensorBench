@@ -96,6 +96,23 @@ TensorBench/
 
 ### Installation & Build
 
+For the simplest setup, run the appropriate command below. These scripts automatically handle the CMake configuration and compilation.
+
+> ### **🐧 Linux/macOS**
+> Run:
+> ```bash
+> ./build.sh
+> ```
+
+> ### **🪟 Windows**
+> Run:
+> ```bash
+> build.bat
+> ```
+
+**or**
+
+
 1. **Clone and navigate to the project:**
 ```bash
 cd TensorBench
