@@ -471,13 +471,13 @@ Based on TensorBench results, consider:
 ### Recommended
 - NVIDIA GPU: Compute Capability 7.0+ (Turing+)
 - CUDA Toolkit: 12.0+
-- RAM: 32GB
+- RAM: 16GB
 - Storage: 2GB (for large benchmark runs)
 
 ### Tested Platforms
-- ✅ Ubuntu 20.04/22.04 (x86_64)
-- ✅ CUDA 11.0, 11.8, 12.0, 12.1
-- ✅ RTX 2080, 3090, 4090, A100
+- ✅ Arch Linux-6.17.7 (x86_64)
+- ✅ CUDA 13.0
+- ✅ RTX 4050
 
 ---
 
